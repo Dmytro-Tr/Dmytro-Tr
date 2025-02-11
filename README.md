@@ -9,10 +9,10 @@
 * 🤝  I'm open to collaborating on interesting project
 
 
-### Skills
+<h2 align="center">Skills</h2> 
 
 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -31,9 +31,9 @@
 </p>
 
 
-### Socials
+<h2 align="center">Socials</h2>
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.github.com/dmytro-tr" target="_blank" rel="noreferrer"> 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -47,12 +47,13 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+<h2 align="center">Badges</h2>
 
-<b>My GitHub Stats</b>
+<p align="center">My GitHub Stats</p>
 
-<a href="http://www.github.com/dmytro-tr">
-<img src="https://github-readme-stats.vercel.app/api?username=dmytro-tr&show_icons=true&theme=merko" alt="dmytro-tr's GitHub stats" /></a><br>
+<p align="center"><a href="http://www.github.com/dmytro-tr">
+<img src="https://github-readme-stats.vercel.app/api?username=dmytro-tr&show_icons=true&theme=merko" alt="dmytro-tr's GitHub stats" /></a></p>
 
-<a href="https://github.com/dmytro-tr">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-tr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center"><a href="https://github.com/dmytro-tr">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-tr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+
