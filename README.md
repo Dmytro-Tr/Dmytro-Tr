@@ -51,7 +51,7 @@ Front-End developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dmytro-tr">
-<img src="https://github-readme-stats.vercel.app/api?username=dmytro-tr&show_icons=true&theme=tokyonight" alt="dmytro-tr's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=dmytro-tr&show_icons=true&theme=gruvbox" alt="dmytro-tr's GitHub stats" /></a>
 
 <a href="https://github.com/dmytro-tr" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmytro-tr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
