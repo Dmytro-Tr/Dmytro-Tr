@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dmytro-tr&label=Profile%20views&color=0e75b6&style=flat" alt="dmytro-tr" /> </p>
 <h1 align="center">Hi 👋 My name is Dmytro Troian!</h1>
 
-<h3 align="center">and I am a Front-End developer</h3>
+<h3 align="center">and I am a Junior Front-End developer</h3>
 
 
 * 🌍  I'm based in Ukraine
