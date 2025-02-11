@@ -47,9 +47,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<h2 align="center">Badges</h2>
-
-<p align="center">My GitHub Stats</p>
+<h2 align="center">My GitHub Stats</h2>
 
 <p align="center"><a href="http://www.github.com/dmytro-tr">
 <img src="https://github-readme-stats.vercel.app/api?username=dmytro-tr&show_icons=true&theme=merko" alt="dmytro-tr's GitHub stats" /></a></p>
